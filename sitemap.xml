@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sezaki02.github.io/sezaki02/posts/</loc>
+    <loc>https://cinemahole.but.jp/public/posts/</loc>
+    <lastmod>2023-03-10T17:58:40+09:00</lastmod>
+  </url><url>
+    <loc>https://cinemahole.but.jp/public/</loc>
+    <lastmod>2023-03-10T17:58:40+09:00</lastmod>
+  </url><url>
+    <loc>https://cinemahole.but.jp/public/posts/contents03/</loc>
+    <lastmod>2023-03-10T17:58:40+09:00</lastmod>
+  </url><url>
+    <loc>https://cinemahole.but.jp/public/posts/my-first-post/</loc>
     <lastmod>2023-03-10T12:24:05+09:00</lastmod>
   </url><url>
-    <loc>https://sezaki02.github.io/sezaki02/</loc>
-    <lastmod>2023-03-10T12:24:05+09:00</lastmod>
+    <loc>https://cinemahole.but.jp/public/categories/</loc>
   </url><url>
-    <loc>https://sezaki02.github.io/sezaki02/posts/my-first-post/</loc>
-    <lastmod>2023-03-10T12:24:05+09:00</lastmod>
-  </url><url>
-    <loc>https://sezaki02.github.io/sezaki02/categories/</loc>
-  </url><url>
-    <loc>https://sezaki02.github.io/sezaki02/tags/</loc>
+    <loc>https://cinemahole.but.jp/public/tags/</loc>
   </url>
 </urlset>

@@ -2,18 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>wth</title>
-    <link>https://sezaki02.github.io/sezaki02/</link>
+    <link>https://cinemahole.but.jp/public/</link>
     <description>Recent content on wth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Mar 2023 12:24:05 +0900</lastBuildDate><atom:link href="https://sezaki02.github.io/sezaki02/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Mar 2023 17:58:40 +0900</lastBuildDate><atom:link href="https://cinemahole.but.jp/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>テスト</title>
-      <link>https://sezaki02.github.io/sezaki02/posts/my-first-post/</link>
+      <title>若干把握したかもしれない。</title>
+      <link>https://cinemahole.but.jp/public/posts/contents03/</link>
+      <pubDate>Fri, 10 Mar 2023 17:58:40 +0900</pubDate>
+      
+      <guid>https://cinemahole.but.jp/public/posts/contents03/</guid>
+      <description>少しわかってきました。hugo するのが大事だ。いやこれ構築はすごく簡単なんだけどデプロイできなくてめちゃくちゃ苦しみ、最終的に「普通にいつものサーバーにアップすればいいのでは？」と真顔になった。
+今までMarkdownを積極的に使ってこなかったけどおそらくめちゃくちゃ便利だと思われるので学習してきたい。</description>
+    </item>
+    
+    <item>
+      <title>全然わからん</title>
+      <link>https://cinemahole.but.jp/public/posts/my-first-post/</link>
       <pubDate>Fri, 10 Mar 2023 12:24:05 +0900</pubDate>
       
-      <guid>https://sezaki02.github.io/sezaki02/posts/my-first-post/</guid>
-      <description>テスト投稿です。</description>
+      <guid>https://cinemahole.but.jp/public/posts/my-first-post/</guid>
+      <description>記述がめちゃくちゃ簡単なのはいいんだが構造が全然わからん。何がpublicに送られて何が送られないのか違いが全く分からないのだが。なぜ最初の記事だけフォルダが作られてpublicに送られてるんだよ？？</description>
     </item>
     
   </channel>
